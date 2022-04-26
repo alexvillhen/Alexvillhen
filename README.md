@@ -2,6 +2,6 @@
 ## aka Alexvillhen, welcome to my profile!
 
 - 🌮 Mexican developer
-- 💻 currently learning JS
+- 💻 currently learning async
 
 
